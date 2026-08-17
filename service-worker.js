@@ -1,4 +1,4 @@
-const CACHE_NAME = 'siempre-humilde-v2';
+const CACHE_NAME = 'siempre-humilde-v1';
 const urlsToCache = [
   '/',
   'index.html',
