@@ -2,7 +2,7 @@
 {
   "name": "SIEMPRE HUMILDE",
   "short_name": "S.HUMILDE",
-  "description": "Vente de bijoux, vstes, chaussures, jqns et jupes",
+  "description": "Vente de bijoux, vstes, chaussures, jeans et jupes",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#0a0a0a",
@@ -10,12 +10,12 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/icon-192.png",
+      "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icon-512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
